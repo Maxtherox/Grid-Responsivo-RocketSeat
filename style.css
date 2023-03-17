@@ -93,6 +93,7 @@ main {
     transform: scale(1.1);
     opacity: 0.4;
     background-color: black;
+    cursor: pointer;
 }
 
 .card h2 {
